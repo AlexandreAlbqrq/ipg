@@ -70,3 +70,9 @@ def Adicionar_Saldo():
 def Estatisticas_Adm():
 def Graficos():
 def Adm_Jogador():
+def jogo1():
+def jogo2():
+def jogo3():
+def jogo4():
+def jogo5():
+def jogo6():
